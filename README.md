@@ -116,7 +116,7 @@ I enjoy creating scalable web applications, experimenting with blockchain system
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/divyansh01440/divyansh01440/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/divyansh01440/divyansh01440/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
