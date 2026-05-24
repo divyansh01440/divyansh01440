@@ -2,7 +2,7 @@
 
 # ⚡ Divyansh // Full Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+scalable+web+apps;Exploring+AI+%2B+Web3;Open+source+contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+scalable+web+apps;Exploring+AI+%2B+Web3;Frontend" alt="Typing SVG" />
 
 </div>
 
