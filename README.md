@@ -102,18 +102,12 @@ I enjoy creating scalable web applications, experimenting with blockchain system
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyansh01440&theme=github_dark" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyansh01440&theme=github_dark"
+    width="49%" />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyansh01440&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyansh01440&theme=github_dark" />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyansh01440&theme=github_dark&utcOffset=5.5" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyansh01440&theme=github_dark&utcOffset=5.5"
+    width="49%" />
 </p>
 
 ---
